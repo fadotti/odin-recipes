@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(244, 247, 215);
+    padding: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#homepage-ul{
+    margin-left: 42%;
+}
+
+.home {
+    display: block;
+    margin-left: 47%;
+}
+
+.recipe-img {
+    margin: 1em auto;
+    display: block;
+}
